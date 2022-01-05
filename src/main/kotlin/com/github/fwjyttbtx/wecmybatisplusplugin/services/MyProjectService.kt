@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.fwjyttbtx.wecmybatisplusplugin.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.fwjyttbtx.wecmybatisplusplugin.MyBundle
 
 class MyProjectService(project: Project) {
 
